@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Noto Sans Thai", sans-serif;
+    font-optical-sizing: auto;
+    font-size:40px;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+}
+htnl,body{
+    height: 100%;
+}
+.boxs{
+    text-align: center;
+    padding-top: 40%;
+}
+.containers{
+    height: 100%;
+    background: url('./img/back.png');
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.page1{
+    height: 75%;
+    width: 75%;
+    overflow: hidden;
+}
+.bi-arrow-right-circle-fill{
+    font-size: 60px;
+    color: red;
+}
+.icon{
+    margin-top: 80;
+    margin-left: 80%;
+}
